@@ -68,3 +68,9 @@ nav a:hover {
     background: url("bg.jpg");
     padding: 40px 0;
 }
+.texto-rodape {
+    color:white;
+    font-size: 13px;
+    margin-top: 20px;
+    
+}
